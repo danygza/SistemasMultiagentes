@@ -36,6 +36,8 @@ Para realizar un modelo de simulación de gráfico, es necesario poder definir b
 * Transito
 * Peatones
 
+Estos agentes se escogieron a partir de las acciones que cada uno de ellos hacen para la situación problema, puesto que cada uno de ellos estan conectados
+
 # Referencias 
  <sup>1</sup> Handy, Susan. (2002). Accessibility- Vs. Mobility-Enhancing Strategies for Addressing Automobile Dependence in the U.S. European Conference of Ministers of Transport. Retrieved on February 21, 2012, from http://www.des.ucdavis.edu/faculty/handy/ECMT_report.pdf.
  
