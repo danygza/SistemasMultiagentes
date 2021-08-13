@@ -31,7 +31,8 @@ el semáforo puede determinar el momento y duración de la luz verde.
 
 
 # Identificación de los agentes involucrados
-Automoviles
-Semaforos
-Transito
-Peatones
+Para realizar un modelo de simulación de gráfico, es necesario poder definir bien que agentes se ocupan para realizar dicha simulación, por el momento hemos decidio que los agentes principales para este proyecto serán los siguientes:
+* Automoviles
+* Semaforos
+* Transito
+* Peatones
