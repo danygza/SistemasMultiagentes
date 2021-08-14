@@ -41,10 +41,9 @@ Estos agentes se escogieron a partir de las acciones que cada uno de ellos hacen
 # Diagramas
 En este apartado se pueden encontrar los diagramas principales la cual nos basamos para la creación de los agentes, la cual consiste en los siguientes diagramas:
 * Diagrama de Clases
-![alt text](https://i.ibb.co/TTrfPDz/D1.png "Primer Diagrama")
-![alt text](https://i.ibb.co/NKJ96BK/D2.png "Segundo Diagrama")
+![alt text](https://i.ibb.co/HGy20cq/Diagramas-Clase.png)
 * Diagrama de Protocolos de Interacción
-![alt text](https://i.ibb.co/3rrn52J/D3.png "Interacción")
+![alt text](https://i.ibb.co/GW867bm/Protocolos-Diagrama.png)
 
 # Plan de trabajo
 ![alt text](https://i.ibb.co/6spQz2H/GANTT.png "Diagrama Gantt")
