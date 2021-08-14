@@ -1,3 +1,75 @@
+# Perfil de los Integrantes
+## Jorge Borbolla A01383867
+### Fortalezas:
+
+ * Trabajador
+ * Buen expositor
+ * Siempre al pendiente
+ * Buen compañero de equipo
+ 
+ ### Áreas de oportunidad:
+ * Trabajo bajo presión
+ * Estrés cuando hay mucho trabajo
+ * Perfeccionista
+ ### Expectativas:
+ * Espero que durante estas cinco semanas pueda desarrollarme como ingeniero en tecnologías computacionales al igual que aprender a usar nuevas herramientas que serán de gran ayuda para diversos proyectos en el futuro, al igual que mi equipo y yo estemos satisfechos con el producto final.
+ ### Logros esperados:
+ * Espero lograr hacer todas las actividades de este curso de la mejor manera posible al igual que poder cumplir todas mis tareas como estudiante y compañero de equipo.
+ * Espero obtener el conocimiento adecuado para poder describir y realizar las actividades que se realizan en clase al igual que la situación problema para presentar un trabajo completo y satisfactorio.
+
+## Javier Agostini A00827216
+### Fortalezas:
+
+* Comprometido
+* Observador
+* Organizado
+* Aprendizaje rápido
+### Áreas de oportunidad:
+* Ambicioso
+* Procrastinar
+### Expectativas:
+* Aprender sobre los sistemas multiagentes, gráficas computacionales, así como su importancia y usos.
+### Logros esperados:
+* Conocer y dominar nuevas tecnologías y herramientas.
+* Desarrollar un proyecto exitoso y de valor.
+
+## Omar Pérez A01383853
+### Fortalezas:
+* Pasión por la programación
+* Autodidacta
+* Responsable
+* Trabajador
+* Trabajo bajo presión
+### Áreas de oportunidad:
+* Dificultad al exponer
+* Perfeccionista
+* Procrastinar
+### Expectativas:
+* Aprender el simular situaciones reales con el uso de sistemas multiagentes y gráficas computacionales, donde aparte de crear el sistema, también crearemos las visuales del mismo y al final podremos ver el funcionamiento de todo en conjunto, un bloque que será interesante y que tal vez tenga algo que ver con una introducción a la inteligencia artificial.
+### Logros esperados:
+* Espero aprender un poco más sobre el uso de Unity en la creación de distintos medios, como puede ser la creación de este mismo sistema multiagente, donde seguramente será todo un reto desarrollar la situación problema del bloque.
+
+## Daniela Garza A00829404
+### Fortalezas:
+* Manejo de tiempo
+* Adaptibilidad
+* Curiosidad
+* Trabajo bajo presión
+* Trabajo en equipo
+### Áreas de oportunidad:
+* Productividad
+* Depuración de errores
+* Procrastinar
+### Expectativas:
+* Obtener las herramientas necesarias para el curso
+* Enriquecer mi conocimiento
+* Comprender y analizar lo necesario para poder sacar adelante el curso
+### Logros esperados:
+* Tener más conocimiento sobre Unity y sobre programar en C#, así como hacer las actividades del curso a tiempo y en forma para tener los conocimientos necesarios para poder concluir la clase.
+
+## Nuestro compromiso:
+* Siempre estar al pendiente de cualquier tarea, estar en comunicación constante, ser responsable con los trabajos, ayudarnos entre todos para poder sacar adelante el reto, asistir a las clases mediante zoom o presencial y contestar el grupo de whatsapp.
+
 # Descripción del proyecto a desarrollar
 La movilidad urbana, se define como la habilidad de transportarse de un lugar a otro <sup>1</sup> y es fundamental 
 para el desarrollo económico y social y la calidad de vida de los habitantes de una ciudad. Desde hace 
