@@ -36,7 +36,33 @@ Para realizar un modelo de simulación de gráfico, es necesario poder definir b
 * Transito
 * Peatones
 
-Estos agentes se escogieron a partir de las acciones que cada uno de ellos hacen para la situación problema, puesto que cada uno de ellos estan conectados
+Estos agentes se escogieron a partir de las acciones que cada uno de ellos hacen para la situación problema, puesto que cada uno de ellos afectan al otro, condiciones como si un semaforo esta encendido de cierto color puede determinar si hay un trafico fluido o tardado. Esto tendra sentido en el apartado donde mostramos los diagramas de flujo y de procesos de los agentes. 
+
+# Diagramas
+En este apartado se pueden encontrar los diagramas principales la cual nos basamos para la creación de los agentes, la cual consiste en los siguientes diagramas:
+* Diagrama de Clases
+![alt text](https://i.ibb.co/TTrfPDz/D1.png "Primer Diagrama")
+![alt text](https://i.ibb.co/NKJ96BK/D2.png "Segundo Diagrama")
+* Diagrama de Protocolos de Interacción
+![alt text](https://i.ibb.co/3rrn52J/D3.png "Interacción")
+
+# Plan de trabajo
+![alt text](https://i.ibb.co/6spQz2H/GANTT.png "Diagrama Gantt")
+
+# Actividades Pendientes
+* P2. Actividad de Semana 2
+* P3. Actividad de Semana 3
+* P4. Actividad de Semana 4
+* P5. Presentación del reto
+
+# Aprendizaje Adquirido
+Los aprendizajes que adquirimos al realizar esta actividad fueron: 
+* Identificación de los agentes que utilizaremos en el reto.
+* El contexto y situación sobre la cual basaremos nuestro proyecto.
+* Creación de diagramas de clases y protocolos para la definición de los agentes.
+
+# Presentación
+La presentación donde se puede encontrar en un formato más accesible se puede encontrar dandole click a [esta liga.](https://docs.google.com/presentation/d/1z-zLMCN0JRH5F9-vAV_bfeX2HRS1jH5wa5MagnbsXd0/edit?usp=sharing)
 
 # Referencias 
  <sup>1</sup> Handy, Susan. (2002). Accessibility- Vs. Mobility-Enhancing Strategies for Addressing Automobile Dependence in the U.S. European Conference of Ministers of Transport. Retrieved on February 21, 2012, from http://www.des.ucdavis.edu/faculty/handy/ECMT_report.pdf.
