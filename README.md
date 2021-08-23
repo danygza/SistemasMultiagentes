@@ -1,4 +1,4 @@
-# Modelación de sistemas multiagentes con gráficas computacionales: Equipo N 
+# Modelación de sistemas multiagentes con gráficas computacionales: Equipo 4
 ### Integrantes 
 * Jorge Borbolla A01383867
 * Omar Pérez A01383853
