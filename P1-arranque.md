@@ -84,7 +84,7 @@ El reto consiste en proponer una solución al problema de movilidad urbana en M�
 que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de 
 un sistema multi agentes.
 
-De acuerdo con la Federal Highway Administration del Departamento de Transporte de EEUU, más del 50% los accidentes automovilísticos ocurren cerca de o en alguna intersección. Un estudio publicado por la National Highway Traffic Safety Administration del Departamento de Transporte de EEUU mostró que el 96% de los accidentes que ocurren en las intersecciones son causados por errores de los conductores. Dichos accidentes son comúnmente colisiones laterales, las cuales generan mayores heridas y daños, debido a que los vehículos tienen menos protección en dichas zonas.
+De acuerdo con la Federal Highway Administration del Departamento de Transporte de EEUU<sup>3</sup>, más del 50% los accidentes automovilísticos ocurren cerca de o en alguna intersección. Un estudio publicado por la National Highway Traffic Safety Administration del Departamento de Transporte de EEUU <sup>4</sup> mostró que el 96% de los accidentes que ocurren en las intersecciones son causados por errores de los conductores. Dichos accidentes son comúnmente colisiones laterales, las cuales generan mayores heridas y daños, debido a que los vehículos tienen menos protección en dichas zonas.
 
 *Principales causas de accidentes automovilísticos*
 * Falta de atención a la intersección
@@ -142,6 +142,10 @@ Los aprendizajes que adquirimos al realizar esta actividad fueron:
 La presentación donde se puede encontrar en un formato más accesible se puede encontrar dandole click a [esta liga.](https://docs.google.com/presentation/d/1z-zLMCN0JRH5F9-vAV_bfeX2HRS1jH5wa5MagnbsXd0/edit?usp=sharing)
 
 # Referencias 
- <sup>1</sup> Handy, Susan. (2002). Accessibility- Vs. Mobility-Enhancing Strategies for Addressing Automobile Dependence in the U.S. European Conference of Ministers of Transport. Retrieved on February 21, 2012, from http://www.des.ucdavis.edu/faculty/handy/ECMT_report.pdf.
+ <sup>1</sup> Handy, Susan. (2002). *Accessibility- Vs. Mobility-Enhancing Strategies for Addressing Automobile Dependence in the U.S. European Conference of Ministers of Transport.* Retrieved on February 21, 2012, from http://www.des.ucdavis.edu/faculty/handy/ECMT_report.pdf.
  
- <sup>2</sup> Medina Ramírez, Salvador. (2012). Transforming Urban Mobility in Mexico: Towards Accesible Cities Less Reliant on Cars. Institute for Transportation and Development Policy (ITDP Mexico). Retrieved on August 7, 2019, from http://mexico.itdp.org/wp-content/uploads/Transforming-Urban-Mobility-in-Mexico.pdf
+ <sup>2</sup> Medina Ramírez, Salvador. (2012). *Transforming Urban Mobility in Mexico: Towards Accesible Cities Less Reliant on Cars.* Institute for Transportation and Development Policy (ITDP Mexico). Retrieved on August 7, 2019, from http://mexico.itdp.org/wp-content/uploads/Transforming-Urban-Mobility-in-Mexico.pdf
+ 
+ <sup>3</sup> Federal Highway Administration. (Agosto 26, 2021). *Intersection Safety.* Retrieved on September 1, 2021, from https://highways.dot.gov/research/research-programs/safety/intersection-safety
+ 
+ <sup>4</sup> Fowkes & Hasanbasic. (n.d.). *Intersection Accidents.* Retrieved on September 1, 2021, from https://www.fhlawpa.com/tampa-car-accident-lawyer/intersection-accidents/
