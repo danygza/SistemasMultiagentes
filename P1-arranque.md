@@ -84,20 +84,26 @@ El reto consiste en proponer una solución al problema de movilidad urbana en M�
 que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de 
 un sistema multi agentes.
 
-Imagina una solución que implemente una de las siguientes estrategias de ejemplo:
+De acuerdo con la Federal Highway Administration del Departamento de Transporte de EEUU, más del 50% los accidentes automovilísticos ocurren cerca de o en alguna intersección. Un estudio publicado por la National Highway Traffic Safety Administration del Departamento de Transporte de EEUU mostró que el 96% de los accidentes que ocurren en las intersecciones son causados por errores de los conductores. Dichos accidentes son comúnmente colisiones laterales, las cuales generan mayores heridas y daños, debido a que los vehículos tienen menos protección en dichas zonas.
 
-- Controlar y asignar los espacios de estacionamiento disponible en una zona de la ciudad, evitando así 
-que los autos estén dando vueltas para encontrar estacionamiento.
+*Principales causas de accidentes automovilísticos*
+* Falta de atención a la intersección
+* Suposiciones erróneas sobre las acciones de otros conductores
+* Dar vuelta con una vista obstruida
+* Maniobras ilegales
+* Distraciones 
+* Ignorar señales de tráfico
 
-- Compartir tu vehículo con otras personas. Aumentando la ocupación de los vehículos, reduciría el 
-número de vehículos en las calles.
+*Principales heridas causadas por accidentes automovilísticos*
+* Cerebrales o en la cabeza
+* Hiperextensión cervical u otras heridas de cuello
+* Heridas de espalda o de la médula espinal
+* Heridas en órganos internos
+* Heridas en tejido blando
 
-- Tomar las rutas menos congestionadas. Quizás no más las cortas, pero las rutas con menos tráfico. 
-Más movilidad, menos consumo, menos contaminación.
+Debido al alto número de accidentes ocurridos en intersecciones y tomando en cuenta que dichos accidentes ocurren principalmente por errores de los conductores, se considera pertinente desarrollar un sistema multiagente controlado por semáforos inteligentes que controlen el flujo vehicular, esto con el motivo de evitar accidentes y disminuir el margen de error ocasionado por los conductores.
 
-- Que permita a los semáforos coordinar sus tiempos y, así, reducir la congestión de un cruce. 
-O, quizás, indicar en qué momento un vehículo va a cruzar una intersección y que de esta forma, 
-el semáforo puede determinar el momento y duración de la luz verde.
+De esta manera, es posible simular un sistema de intersección inteligente, analizar las interacciones y comportamientos de los agentes dentro del sistema y, a partir de los resultados obtenidos, analizar si dicha solución es eficiente, con el objetivo de que, en un futuro, sea posible implementarse en una intersección real.
 
 
 
