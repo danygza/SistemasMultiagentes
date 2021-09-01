@@ -124,7 +124,7 @@ En este apartado se pueden encontrar los diagramas principales la cual nos basam
 ![alt text](https://i.ibb.co/GW867bm/Protocolos-Diagrama.png)
 
 # Plan de trabajo
-![alt text](https://i.ibb.co/6spQz2H/GANTT.png "Diagrama Gantt")
+![alt text](https://i.ibb.co/z60c84w/P1-Arranque-de-Proyecto.png "Diagrama Gantt")
 
 # Actividades Pendientes
 * P2. Actividad de Semana 2
