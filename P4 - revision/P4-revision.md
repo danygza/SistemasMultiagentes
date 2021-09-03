@@ -2,9 +2,12 @@
 ## Diagramas
 **Diagramas de clases**
 
-![alt text](https://i.ibb.co/ZH578CY/ClasesP4.png)
+![alt text](https://i.ibb.co/4sydtBZ/Diagrama-Clases-P4.png)
 
 **Diagramas de protocolos**
+
+![alt-text](https://i.ibb.co/BtvxvxN/Whats-App-Image-2021-09-03-at-1-49-26-PM.jpg)
+![alt-text](https://i.imgur.com/kmnCV3s.png)
 
 ## Plan de Trabajo
 ![alt-text](https://i.ibb.co/y6ThQrs/Plan-Trabajo-P4.png)
