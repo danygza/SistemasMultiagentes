@@ -9,6 +9,10 @@
 ## Plan de Trabajo
 ![alt-text](https://i.ibb.co/y6ThQrs/Plan-Trabajo-P4.png)
 
+El plan de trabajo consta de un diagrama de Gantt que muestra las actividades realizadas en equipo a lo largo del bloque. Como se puede observar, cada semana consiste de una barra gris y las barras verdes o gris oscuro representan el tiempo destinado para dicha actividad. Si la barra es verde, quiere decir que la actividad ya fue completada y si la barra es gris oscuro, es una actividad pendiente.
+
+Si la barra verde o gris oscuro se encuentra en la segunda mitad de la semana 2, esto representa que se tiene destinada la segunda mitad de esa semana para trabajar dicho entregable.
+
 ### Actividades finalizadas
 Las actividades finalizadas se encuentran en color verde dentro del plan de trabajo. Estas son:
 * **P1 - Arranque de Proyecto:** Tomó aproximadamente una semana y media en completar, debido a la creación de equipos, entendimiento del reto, etc. La diferencia con nuestra estimación fue casi nula.
