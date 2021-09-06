@@ -8,7 +8,7 @@
 
 ![alt-text](https://i.ibb.co/BtvxvxN/Whats-App-Image-2021-09-03-at-1-49-26-PM.jpg)
 ![alt-text](https://i.imgur.com/kmnCV3s.png)
-
+![alt-text](https://i.ibb.co/6yWXJkF/PISO.png)
 ## Plan de Trabajo
 ![alt-text](https://i.ibb.co/y6ThQrs/Plan-Trabajo-P4.png)
 
